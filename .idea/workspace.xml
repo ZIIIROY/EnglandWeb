@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40ac3feb-852e-43c5-9cfb-d75fab128ad9" name="Default" comment="1 注释了3条引用了外国网址的语句，这些网址打不开，所以会拖慢页面读取的速度&#10;2 修改主标题，由cultivation改为England">
+    <list default="true" id="40ac3feb-852e-43c5-9cfb-d75fab128ad9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/about.html" afterPath="$PROJECT_DIR$/src/main/webapp/about.html" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/blog.html" afterPath="$PROJECT_DIR$/src/main/webapp/blog.html" />
@@ -301,7 +301,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516542040274</updated>
       <workItem from="1516542048603" duration="1381000" />
-      <workItem from="1516580665684" duration="2010000" />
+      <workItem from="1516580665684" duration="2047000" />
     </task>
     <task id="LOCAL-00001" summary="1 注释了3条引用了外国网址的语句，这些网址打不开，所以会拖慢页面读取的速度&#10;2 修改了四个首页框框的颜色，改为淡蓝色#1669a6b3，并且修改背景图片&#10;3 修改主标题，由cultivation改为England">
       <created>1516542831981</created>
@@ -310,15 +310,21 @@
       <option name="project" value="LOCAL" />
       <updated>1516542831981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1 对几个子网页处理，注释了3条引用了外国网址的语句，这些网址打不开，所以会拖慢页面读取的速度&#10;2 修改子网页修改标题，由cultivation改为England">
+      <created>1516582725781</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516582725781</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3391000" />
+    <option name="totallyTimeSpent" value="3428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -356,7 +362,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 注释了3条引用了外国网址的语句，这些网址打不开，所以会拖慢页面读取的速度&#10;2 修改了四个首页框框的颜色，改为淡蓝色#1669a6b3，并且修改背景图片&#10;3 修改主标题，由cultivation改为England" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 注释了3条引用了外国网址的语句，这些网址打不开，所以会拖慢页面读取的速度&#10;2 修改了四个首页框框的颜色，改为淡蓝色#1669a6b3，并且修改背景图片&#10;3 修改主标题，由cultivation改为England" />
+    <MESSAGE value="1 对几个子网页处理，注释了3条引用了外国网址的语句，这些网址打不开，所以会拖慢页面读取的速度&#10;2 修改子网页修改标题，由cultivation改为England" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 对几个子网页处理，注释了3条引用了外国网址的语句，这些网址打不开，所以会拖慢页面读取的速度&#10;2 修改子网页修改标题，由cultivation改为England" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
